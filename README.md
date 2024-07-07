@@ -8,13 +8,12 @@ A simple web browser built in Python using PyQt5 and PyQtWebEngine.
 - [Usage](#usage)
 - [Features](#features)
 - [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
 1. Clone the repository:
     ```
-    git clone https://github.com/yourusername/simple-python-browser.git
+    git clone https://github.com/abdalrhman-althawabteh/Simple-Python-Browser.git
     ```
 2. Navigate to the project directory:
     ```
@@ -45,8 +44,3 @@ A simple web browser built in Python using PyQt5 and PyQtWebEngine.
 ## Credits
 
 This project was inspired by the tutorial from Programming Hero. You can watch the original tutorial [here](https://www.youtube.com/watch?v=z-5bZ8EoKu4&ab_channel=ProgrammingHero).
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
